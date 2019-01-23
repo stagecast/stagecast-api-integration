@@ -1,7 +1,7 @@
-# Welcome to the Stagecast SDK repo
-This is a public repository.
+# Welcome to the Stagecast SDK
 
-Please use issues to report bugs.
+
+Please use "Issues" to report a bug.
 
 To get in contact: sdk@stagecast.se
 
