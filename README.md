@@ -1,4 +1,4 @@
-# Welcome to the Stagecast App Integration
+# Welcome to the Stagecast Api Integration
 
 
 Please use "Issues" to report a bug.
